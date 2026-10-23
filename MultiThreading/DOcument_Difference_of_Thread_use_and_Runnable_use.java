@@ -1,7 +1,11 @@
 package com.balia.MultiThreading;
 
-public class DOcument_Difference_of_Thread_use_and_Runnable_use {
-
+public class DOcument_Difference_of_Thread_use_and_Runnable_use 
+{
+    public static void main(String []args)
+    {
+        IO.println("DOcument_Difference_of_Thread_use_and_Runnable_use");
+    }
 }
 /**
  * 

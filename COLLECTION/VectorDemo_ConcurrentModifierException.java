@@ -33,6 +33,7 @@ public class VectorDemo_ConcurrentModifierException
 			if(employee.id().equals(id))
 			{
 				listOfEmployee.remove(employee);
+				break;
 			
 			}
 		}
